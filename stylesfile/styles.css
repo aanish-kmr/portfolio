@@ -1,0 +1,140 @@
+body{
+  
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+
+}
+
+.top_container{
+    padding-top: 20px;
+    background-color: #EAF6F6;
+    margin: 0  auto 0 auto ;
+    width: 100%;
+    text-align: center;
+    color: #66BFBF;
+    position: relative;
+    
+}
+.topcloud{
+    position: relative;
+   left: 275px;
+   top: 20px;
+    height: 60px;
+    width: 200px;
+
+}
+.mountain{
+    /* position: relative;
+    right: 55px;
+     */
+}
+.bottomcloud{
+    position: absolute;
+    /* bottom: 350px; */
+    /* right: 10px; */
+    left: 250px;
+    height: 60px;
+    width: 200px;
+   
+}
+h1{
+    width: 80%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    font-size: 80px;
+   
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+    color: #c63598;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    color: #66BFBF;
+}
+.photo{
+    margin-top: 30px;
+    margin-left: 20%;
+    width: 60%;
+}
+
+.profilephoto{
+    height: 200px;
+    width: 200px;
+    
+}
+.skill{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    width: 60%;
+    margin-left: 20%;
+}
+.web{
+    text-align: left;
+    padding: 100px auto 100px auto;
+}
+.web-img{
+    float: left;
+    margin-right: 30px;
+}
+.coding{
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.cppimg{
+    float: right;
+    margin-left: 30px;
+}
+.pharma{
+    padding: 100px auto 100px auto;
+
+}
+.pharma-img{
+    float: left;
+    margin-right: 30px;
+}
+.database{
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.sql-img{
+    float: right;
+    margin-left: 30px;
+}
+.contact{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    border: solid 2px rgb(187, 215, 228);
+    background-color: rgb(145, 202, 223);
+}
+.sentmail{
+    padding: 5px 2px 5px 2px;
+    border: solid 5px rgb(210, 222, 222);
+    border-radius: 10px;
+    background-color: rgb(157, 170, 184);
+    font-weight: 700;
+    text-decoration: none;
+}
+.sentmail:hover{
+    color: rgb(140, 126, 71);
+    background-color: aliceblue;
+}
+.bottom-container{
+    text-align: center;
+    background-color: #66BFBF;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    
+    
+}
+.footerlink{
+    padding: 0 20px 0 20px;
+    color: rgb(154, 68, 10);
+    text-decoration: none;
+}
+.footerlink:hover{
+    color: rgb(64, 6, 93);
+    background-color: #EAF6F6;
+}
